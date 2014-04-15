@@ -1,0 +1,27 @@
+{
+  "name": "testrail",
+  "version": "0.0.0",
+  "description": "TestRail API client",
+  "main": "lib/testrail.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmayshark/testrail-js.git"
+  },
+  "keywords": [
+    "testrail"
+  ],
+  "author": "Tristan Mayshark",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/tmayshark/testrail-js/issues"
+  },
+  "homepage": "https://github.com/tmayshark/testrail-js",
+  "dependencies": {
+    "node-rest-client": "~0.7.5",
+    "q": "~0.9.7",
+    "lodash": "~2.4.1"
+  }
+}
